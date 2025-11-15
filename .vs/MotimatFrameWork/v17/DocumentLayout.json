@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mmds\\Desktop\\res\\MotimatFrameWork\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15C57E96-C2B7-417F-8432-1B40C48B71D7}|MotimatFrameWork.Razor\\MotimatFrameWork.Razor.csproj|c:\\users\\mmds\\desktop\\res\\motimatframework\\motimatframework.razor\\services\\servicelocator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C57E96-C2B7-417F-8432-1B40C48B71D7}|MotimatFrameWork.Razor\\MotimatFrameWork.Razor.csproj|solutionrelative:motimatframework.razor\\services\\servicelocator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C57E96-C2B7-417F-8432-1B40C48B71D7}|MotimatFrameWork.Razor\\MotimatFrameWork.Razor.csproj|c:\\users\\mmds\\desktop\\res\\motimatframework\\motimatframework.razor\\interfaces\\iservicelocator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C57E96-C2B7-417F-8432-1B40C48B71D7}|MotimatFrameWork.Razor\\MotimatFrameWork.Razor.csproj|solutionrelative:motimatframework.razor\\interfaces\\iservicelocator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C57E96-C2B7-417F-8432-1B40C48B71D7}|MotimatFrameWork.Razor\\MotimatFrameWork.Razor.csproj|c:\\users\\mmds\\desktop\\res\\motimatframework\\motimatframework.razor\\razorprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C57E96-C2B7-417F-8432-1B40C48B71D7}|MotimatFrameWork.Razor\\MotimatFrameWork.Razor.csproj|solutionrelative:motimatframework.razor\\razorprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F56447EE-7E4D-4789-9DB4-9869A162C2B9}|MotimatFrameWork.Razor.Entity\\MotimatFrameWork.Razor.Entity.csproj|c:\\users\\mmds\\desktop\\res\\motimatframework\\motimatframework.razor.entity\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F56447EE-7E4D-4789-9DB4-9869A162C2B9}|MotimatFrameWork.Razor.Entity\\MotimatFrameWork.Razor.Entity.csproj|solutionrelative:motimatframework.razor.entity\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F56447EE-7E4D-4789-9DB4-9869A162C2B9}|MotimatFrameWork.Razor.Entity\\MotimatFrameWork.Razor.Entity.csproj|c:\\users\\mmds\\desktop\\res\\motimatframework\\motimatframework.razor.entity\\theme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F56447EE-7E4D-4789-9DB4-9869A162C2B9}|MotimatFrameWork.Razor.Entity\\MotimatFrameWork.Razor.Entity.csproj|solutionrelative:motimatframework.razor.entity\\theme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:111908971:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServiceLocator.cs",
+              "DocumentMoniker": "C:\\Users\\mmds\\Desktop\\res\\MotimatFrameWork\\MotimatFrameWork.Razor\\Services\\ServiceLocator.cs",
+              "RelativeDocumentMoniker": "MotimatFrameWork.Razor\\Services\\ServiceLocator.cs",
+              "ToolTip": "C:\\Users\\mmds\\Desktop\\res\\MotimatFrameWork\\MotimatFrameWork.Razor\\Services\\ServiceLocator.cs",
+              "RelativeToolTip": "MotimatFrameWork.Razor\\Services\\ServiceLocator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T00:46:00.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IServiceLocator.cs",
+              "DocumentMoniker": "C:\\Users\\mmds\\Desktop\\res\\MotimatFrameWork\\MotimatFrameWork.Razor\\Interfaces\\IServiceLocator.cs",
+              "RelativeDocumentMoniker": "MotimatFrameWork.Razor\\Interfaces\\IServiceLocator.cs",
+              "ToolTip": "C:\\Users\\mmds\\Desktop\\res\\MotimatFrameWork\\MotimatFrameWork.Razor\\Interfaces\\IServiceLocator.cs",
+              "RelativeToolTip": "MotimatFrameWork.Razor\\Interfaces\\IServiceLocator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T00:45:58.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RazorProvider.cs",
+              "DocumentMoniker": "C:\\Users\\mmds\\Desktop\\res\\MotimatFrameWork\\MotimatFrameWork.Razor\\RazorProvider.cs",
+              "RelativeDocumentMoniker": "MotimatFrameWork.Razor\\RazorProvider.cs",
+              "ToolTip": "C:\\Users\\mmds\\Desktop\\res\\MotimatFrameWork\\MotimatFrameWork.Razor\\RazorProvider.cs",
+              "RelativeToolTip": "MotimatFrameWork.Razor\\RazorProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T00:23:18.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\mmds\\Desktop\\res\\MotimatFrameWork\\MotimatFrameWork.Razor.Entity\\Configuration.cs",
+              "RelativeDocumentMoniker": "MotimatFrameWork.Razor.Entity\\Configuration.cs",
+              "ToolTip": "C:\\Users\\mmds\\Desktop\\res\\MotimatFrameWork\\MotimatFrameWork.Razor.Entity\\Configuration.cs",
+              "RelativeToolTip": "MotimatFrameWork.Razor.Entity\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T00:22:44.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Theme.cs",
+              "DocumentMoniker": "C:\\Users\\mmds\\Desktop\\res\\MotimatFrameWork\\MotimatFrameWork.Razor.Entity\\Theme.cs",
+              "RelativeDocumentMoniker": "MotimatFrameWork.Razor.Entity\\Theme.cs",
+              "ToolTip": "C:\\Users\\mmds\\Desktop\\res\\MotimatFrameWork\\MotimatFrameWork.Razor.Entity\\Theme.cs",
+              "RelativeToolTip": "MotimatFrameWork.Razor.Entity\\Theme.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T00:22:35.964Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+C:\Users\mmds\Desktop\res\MotimatFrameWork\MotimatFrameWork.Auth\bin\Debug\net9.0\MotimatFrameWork.Auth.deps.json
+C:\Users\mmds\Desktop\res\MotimatFrameWork\MotimatFrameWork.Auth\bin\Debug\net9.0\MotimatFrameWork.Auth.dll
+C:\Users\mmds\Desktop\res\MotimatFrameWork\MotimatFrameWork.Auth\bin\Debug\net9.0\MotimatFrameWork.Auth.pdb
+C:\Users\mmds\Desktop\res\MotimatFrameWork\MotimatFrameWork.Auth\obj\Debug\net9.0\MotimatFrameWork.Auth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmds\Desktop\res\MotimatFrameWork\MotimatFrameWork.Auth\obj\Debug\net9.0\MotimatFrameWork.Auth.AssemblyInfoInputs.cache
+C:\Users\mmds\Desktop\res\MotimatFrameWork\MotimatFrameWork.Auth\obj\Debug\net9.0\MotimatFrameWork.Auth.AssemblyInfo.cs
+C:\Users\mmds\Desktop\res\MotimatFrameWork\MotimatFrameWork.Auth\obj\Debug\net9.0\MotimatFrameWork.Auth.csproj.CoreCompileInputs.cache
+C:\Users\mmds\Desktop\res\MotimatFrameWork\MotimatFrameWork.Auth\obj\Debug\net9.0\MotimatFrameWork.Auth.dll
+C:\Users\mmds\Desktop\res\MotimatFrameWork\MotimatFrameWork.Auth\obj\Debug\net9.0\refint\MotimatFrameWork.Auth.dll
+C:\Users\mmds\Desktop\res\MotimatFrameWork\MotimatFrameWork.Auth\obj\Debug\net9.0\MotimatFrameWork.Auth.pdb
+C:\Users\mmds\Desktop\res\MotimatFrameWork\MotimatFrameWork.Auth\obj\Debug\net9.0\ref\MotimatFrameWork.Auth.dll

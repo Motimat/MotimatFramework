@@ -1,0 +1,11 @@
+C:\Users\mmds\Desktop\res\MotimatFrameWork\MotimatFrameWork.Entity\bin\Debug\net9.0\MotimatFrameWork.Entity.deps.json
+C:\Users\mmds\Desktop\res\MotimatFrameWork\MotimatFrameWork.Entity\bin\Debug\net9.0\MotimatFrameWork.Entity.dll
+C:\Users\mmds\Desktop\res\MotimatFrameWork\MotimatFrameWork.Entity\bin\Debug\net9.0\MotimatFrameWork.Entity.pdb
+C:\Users\mmds\Desktop\res\MotimatFrameWork\MotimatFrameWork.Entity\obj\Debug\net9.0\MotimatFrameWork.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmds\Desktop\res\MotimatFrameWork\MotimatFrameWork.Entity\obj\Debug\net9.0\MotimatFrameWork.Entity.AssemblyInfoInputs.cache
+C:\Users\mmds\Desktop\res\MotimatFrameWork\MotimatFrameWork.Entity\obj\Debug\net9.0\MotimatFrameWork.Entity.AssemblyInfo.cs
+C:\Users\mmds\Desktop\res\MotimatFrameWork\MotimatFrameWork.Entity\obj\Debug\net9.0\MotimatFrameWork.Entity.csproj.CoreCompileInputs.cache
+C:\Users\mmds\Desktop\res\MotimatFrameWork\MotimatFrameWork.Entity\obj\Debug\net9.0\MotimatFrameWork.Entity.dll
+C:\Users\mmds\Desktop\res\MotimatFrameWork\MotimatFrameWork.Entity\obj\Debug\net9.0\refint\MotimatFrameWork.Entity.dll
+C:\Users\mmds\Desktop\res\MotimatFrameWork\MotimatFrameWork.Entity\obj\Debug\net9.0\MotimatFrameWork.Entity.pdb
+C:\Users\mmds\Desktop\res\MotimatFrameWork\MotimatFrameWork.Entity\obj\Debug\net9.0\ref\MotimatFrameWork.Entity.dll

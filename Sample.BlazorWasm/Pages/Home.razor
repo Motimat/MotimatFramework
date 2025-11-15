@@ -1,0 +1,29 @@
+﻿@page "/"
+@using MotimatFrameWork.Razor
+@inject IJSRuntime js
+@inject ExampleJsInterop exampleJsInterop;
+
+<PageTitle>Home</PageTitle>
+
+<h1>Hello, world!</h1>
+
+Welcome to your new app.
+
+
+<p>@text</p>
+@code{
+    public string text { get; set; } = "default";
+
+    protected override async Task OnInitializedAsync()
+    {
+        
+
+        text = await exampleJsInterop.Prompt("motimat");
+
+        await base.OnInitializedAsync();
+    }
+
+
+}
+
+

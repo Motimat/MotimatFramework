@@ -1,0 +1,9 @@
+C:\Users\mmds\Desktop\res\MotimatFrameWork\MotimatFrameWork.Razor\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\mmds\Desktop\res\MotimatFrameWork\MotimatFrameWork.Razor\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\mmds\Desktop\res\MotimatFrameWork\MotimatFrameWork.Razor\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\mmds\Desktop\res\MotimatFrameWork\MotimatFrameWork.Razor\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\mmds\Desktop\res\MotimatFrameWork\MotimatFrameWork.Razor.Button\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\mmds\Desktop\res\MotimatFrameWork\MotimatFrameWork.Razor\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\mmds\Desktop\res\MotimatFrameWork\MotimatFrameWork.Razor\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\mmds\Desktop\res\MotimatFrameWork\MotimatFrameWork.Razor\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\mmds\Desktop\res\MotimatFrameWork\MotimatFrameWork.Razor\obj\Debug\net9.0\staticwebassets.build.json

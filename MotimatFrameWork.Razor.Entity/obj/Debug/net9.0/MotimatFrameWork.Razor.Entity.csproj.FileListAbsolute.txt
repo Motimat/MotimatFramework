@@ -1,0 +1,11 @@
+C:\Users\mmds\Desktop\res\MotimatFrameWork\MotimatFrameWork.Razor.Entity\bin\Debug\net9.0\MotimatFrameWork.Razor.Entity.deps.json
+C:\Users\mmds\Desktop\res\MotimatFrameWork\MotimatFrameWork.Razor.Entity\bin\Debug\net9.0\MotimatFrameWork.Razor.Entity.dll
+C:\Users\mmds\Desktop\res\MotimatFrameWork\MotimatFrameWork.Razor.Entity\bin\Debug\net9.0\MotimatFrameWork.Razor.Entity.pdb
+C:\Users\mmds\Desktop\res\MotimatFrameWork\MotimatFrameWork.Razor.Entity\obj\Debug\net9.0\MotimatFrameWork.Razor.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmds\Desktop\res\MotimatFrameWork\MotimatFrameWork.Razor.Entity\obj\Debug\net9.0\MotimatFrameWork.Razor.Entity.AssemblyInfoInputs.cache
+C:\Users\mmds\Desktop\res\MotimatFrameWork\MotimatFrameWork.Razor.Entity\obj\Debug\net9.0\MotimatFrameWork.Razor.Entity.AssemblyInfo.cs
+C:\Users\mmds\Desktop\res\MotimatFrameWork\MotimatFrameWork.Razor.Entity\obj\Debug\net9.0\MotimatFrameWork.Razor.Entity.csproj.CoreCompileInputs.cache
+C:\Users\mmds\Desktop\res\MotimatFrameWork\MotimatFrameWork.Razor.Entity\obj\Debug\net9.0\MotimatFrameWork.Razor.Entity.dll
+C:\Users\mmds\Desktop\res\MotimatFrameWork\MotimatFrameWork.Razor.Entity\obj\Debug\net9.0\refint\MotimatFrameWork.Razor.Entity.dll
+C:\Users\mmds\Desktop\res\MotimatFrameWork\MotimatFrameWork.Razor.Entity\obj\Debug\net9.0\MotimatFrameWork.Razor.Entity.pdb
+C:\Users\mmds\Desktop\res\MotimatFrameWork\MotimatFrameWork.Razor.Entity\obj\Debug\net9.0\ref\MotimatFrameWork.Razor.Entity.dll

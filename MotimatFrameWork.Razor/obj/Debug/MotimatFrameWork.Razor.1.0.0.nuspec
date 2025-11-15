@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>MotimatFrameWork.Razor</id>
+    <version>1.0.0</version>
+    <authors>MotimatFrameWork.Razor</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net9.0">
+        <dependency id="Microsoft.AspNetCore.Components.Web" version="9.0.9" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\mmds\Desktop\res\MotimatFrameWork\MotimatFrameWork.Razor\bin\Debug\net9.0\MotimatFrameWork.Razor.dll" target="lib\net9.0\MotimatFrameWork.Razor.dll" />
+    <file src="C:\Users\mmds\Desktop\res\MotimatFrameWork\MotimatFrameWork.Razor\obj\Debug\net9.0\scopedcss\projectbundle\MotimatFrameWork.Razor.bundle.scp.css" target="staticwebassets\MotimatFrameWork.Razor.ylgturhwm0.bundle.scp.css" />
+    <file src="C:\Users\mmds\Desktop\res\MotimatFrameWork\MotimatFrameWork.Razor\wwwroot\background.png" target="staticwebassets\background.png" />
+    <file src="C:\Users\mmds\Desktop\res\MotimatFrameWork\MotimatFrameWork.Razor\wwwroot\exampleJsInterop.js" target="staticwebassets\exampleJsInterop.js" />
+    <file src="C:\Users\mmds\Desktop\res\MotimatFrameWork\MotimatFrameWork.Razor\obj\Debug\net9.0\staticwebassets\msbuild.MotimatFrameWork.Razor.Microsoft.AspNetCore.StaticWebAssetEndpoints.props" target="build\Microsoft.AspNetCore.StaticWebAssetEndpoints.props" />
+    <file src="C:\Users\mmds\Desktop\res\MotimatFrameWork\MotimatFrameWork.Razor\obj\Debug\net9.0\staticwebassets\msbuild.MotimatFrameWork.Razor.Microsoft.AspNetCore.StaticWebAssets.props" target="build\Microsoft.AspNetCore.StaticWebAssets.props" />
+    <file src="C:\Users\mmds\Desktop\res\MotimatFrameWork\MotimatFrameWork.Razor\obj\Debug\net9.0\staticwebassets\msbuild.build.MotimatFrameWork.Razor.props" target="build\MotimatFrameWork.Razor.props" />
+    <file src="C:\Users\mmds\Desktop\res\MotimatFrameWork\MotimatFrameWork.Razor\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.MotimatFrameWork.Razor.props" target="buildMultiTargeting\MotimatFrameWork.Razor.props" />
+    <file src="C:\Users\mmds\Desktop\res\MotimatFrameWork\MotimatFrameWork.Razor\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.MotimatFrameWork.Razor.props" target="buildTransitive\MotimatFrameWork.Razor.props" />
+  </files>
+</package>

@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\mmds\\Desktop\\res\\MotimatFrameWork\\MotimatFrameWork.Razor\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\MotimatFrameWork.Razor.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MotimatFrameWork.Razor.ylgturhwm0.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\mmds\\Desktop\\res\\MotimatFrameWork\\MotimatFrameWork.Razor\\wwwroot\\background.png",
+      "PackagePath": "staticwebassets\\background.png"
+    },
+    {
+      "Id": "C:\\Users\\mmds\\Desktop\\res\\MotimatFrameWork\\MotimatFrameWork.Razor\\wwwroot\\exampleJsInterop.js",
+      "PackagePath": "staticwebassets\\exampleJsInterop.js"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.MotimatFrameWork.Razor.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.MotimatFrameWork.Razor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.MotimatFrameWork.Razor.props",
+      "PackagePath": "build\\MotimatFrameWork.Razor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.MotimatFrameWork.Razor.props",
+      "PackagePath": "buildMultiTargeting\\MotimatFrameWork.Razor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.MotimatFrameWork.Razor.props",
+      "PackagePath": "buildTransitive\\MotimatFrameWork.Razor.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

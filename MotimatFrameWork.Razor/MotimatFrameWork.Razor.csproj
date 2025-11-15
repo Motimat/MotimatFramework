@@ -1,0 +1,32 @@
+<Project Sdk="Microsoft.NET.Sdk.Razor">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <PackageOutputPath>../nupkg</PackageOutputPath>
+  </PropertyGroup>
+
+
+  <ItemGroup>
+    <SupportedPlatform Include="browser" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Components.Web" Version="9.0.9" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Components\Button\" />
+    <Folder Include="Components\Modal\" />
+    <Folder Include="Components\InputText\" />
+    <Folder Include="Components\InputNumber\" />
+    <Folder Include="Components\InputCurrency\" />
+    <Folder Include="Components\DatePicker\" />
+    <Folder Include="Components\Modals\" />
+    <Folder Include="Components\MultiSelect\" />
+    <Folder Include="Entity\" />
+    <Folder Include="Layout\" />
+  </ItemGroup>
+
+</Project>
