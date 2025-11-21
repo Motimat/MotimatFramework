@@ -1,3 +1,8 @@
 <Solution>
+  <Folder Name="/Razors/" />
+  <Folder Name="/Razors/Shared/">
+    <Project Path="MotimatFrameWork.Razor.Entity/MotimatFrameWork.Razor.Entity.csproj" />
+    <Project Path="MotimatFrameWork.Razor/MotimatFrameWork.Razor.csproj" />
+  </Folder>
   <Project Path="Sample.BlazorWasm/Sample.BlazorWasm.csproj" />
 </Solution>
