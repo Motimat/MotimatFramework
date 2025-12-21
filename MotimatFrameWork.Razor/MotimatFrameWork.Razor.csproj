@@ -7,13 +7,24 @@
     <PackageOutputPath>../nupkg</PackageOutputPath>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="Entity\**" />
+    <Content Remove="Entity\**" />
+    <EmbeddedResource Remove="Entity\**" />
+    <None Remove="Entity\**" />
+  </ItemGroup>
+
 
   <ItemGroup>
     <SupportedPlatform Include="browser" />
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.AspNetCore.Components.Web" Version="9.0.9" />
+    <PackageReference Include="Blazored.LocalStorage" Version="4.5.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Components.Authorization" Version="9.0.11" />
+    <PackageReference Include="Microsoft.AspNetCore.Components.Web" Version="9.0.11" />
+    <PackageReference Include="Microsoft.IdentityModel.Tokens" Version="8.15.0" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="8.15.0" />
   </ItemGroup>
 
   <ItemGroup>
@@ -25,8 +36,11 @@
     <Folder Include="Components\DatePicker\" />
     <Folder Include="Components\Modals\" />
     <Folder Include="Components\MultiSelect\" />
-    <Folder Include="Entity\" />
     <Folder Include="Layout\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\Shop\Refrences\MotimatFramework\MotimatFrameWork.Razor.Entity\MotimatFrameWork.Razor.Entity.csproj" />
   </ItemGroup>
 
 </Project>

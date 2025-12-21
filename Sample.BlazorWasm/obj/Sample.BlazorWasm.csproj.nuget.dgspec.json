@@ -1,26 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "/home/motimat/source/projects/MotimatFrameWork/Sample.BlazorWasm/Sample.BlazorWasm.csproj": {}
+    "C:\\Users\\Motimat\\source\\repos\\subasil\\Refrences\\motimatframework\\Sample.BlazorWasm\\Sample.BlazorWasm.csproj": {}
   },
   "projects": {
-    "/home/motimat/source/projects/MotimatFrameWork/MotimatFrameWork.Razor/MotimatFrameWork.Razor.csproj": {
+    "C:\\Users\\Motimat\\source\\repos\\Shop\\Refrences\\MotimatFramework\\MotimatFrameWork.Razor.Entity\\MotimatFrameWork.Razor.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/motimat/source/projects/MotimatFrameWork/MotimatFrameWork.Razor/MotimatFrameWork.Razor.csproj",
-        "projectName": "MotimatFrameWork.Razor",
-        "projectPath": "/home/motimat/source/projects/MotimatFrameWork/MotimatFrameWork.Razor/MotimatFrameWork.Razor.csproj",
-        "packagesPath": "/home/motimat/.nuget/packages/",
-        "outputPath": "/home/motimat/source/projects/MotimatFrameWork/MotimatFrameWork.Razor/obj/",
+        "projectUniqueName": "C:\\Users\\Motimat\\source\\repos\\Shop\\Refrences\\MotimatFramework\\MotimatFrameWork.Razor.Entity\\MotimatFrameWork.Razor.Entity.csproj",
+        "projectName": "MotimatFrameWork.Razor.Entity",
+        "projectPath": "C:\\Users\\Motimat\\source\\repos\\Shop\\Refrences\\MotimatFramework\\MotimatFrameWork.Razor.Entity\\MotimatFrameWork.Razor.Entity.csproj",
+        "packagesPath": "C:\\Users\\Motimat\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Motimat\\source\\repos\\Shop\\Refrences\\MotimatFramework\\MotimatFrameWork.Razor.Entity\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/home/motimat/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Motimat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
-          "/usr/lib/dotnet/library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -39,7 +45,77 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Motimat\\source\\repos\\subasil\\Refrences\\motimatframework\\MotimatFrameWork.Razor\\MotimatFrameWork.Razor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Motimat\\source\\repos\\subasil\\Refrences\\motimatframework\\MotimatFrameWork.Razor\\MotimatFrameWork.Razor.csproj",
+        "projectName": "MotimatFrameWork.Razor",
+        "projectPath": "C:\\Users\\Motimat\\source\\repos\\subasil\\Refrences\\motimatframework\\MotimatFrameWork.Razor\\MotimatFrameWork.Razor.csproj",
+        "packagesPath": "C:\\Users\\Motimat\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Motimat\\source\\repos\\subasil\\Refrences\\motimatframework\\MotimatFrameWork.Razor\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Motimat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\Motimat\\source\\repos\\Shop\\Refrences\\MotimatFramework\\MotimatFrameWork.Razor.Entity\\MotimatFrameWork.Razor.Entity.csproj": {
+                "projectPath": "C:\\Users\\Motimat\\source\\repos\\Shop\\Refrences\\MotimatFramework\\MotimatFrameWork.Razor.Entity\\MotimatFrameWork.Razor.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net9.0": {
@@ -47,7 +123,7 @@
           "dependencies": {
             "Microsoft.AspNetCore.Components.Web": {
               "target": "Package",
-              "version": "[9.0.9, )"
+              "version": "[9.0.11, )"
             }
           },
           "imports": [
@@ -66,35 +142,41 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/9.0.112/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/motimat/source/projects/MotimatFrameWork/Sample.BlazorWasm/Sample.BlazorWasm.csproj": {
+    "C:\\Users\\Motimat\\source\\repos\\subasil\\Refrences\\motimatframework\\Sample.BlazorWasm\\Sample.BlazorWasm.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/motimat/source/projects/MotimatFrameWork/Sample.BlazorWasm/Sample.BlazorWasm.csproj",
+        "projectUniqueName": "C:\\Users\\Motimat\\source\\repos\\subasil\\Refrences\\motimatframework\\Sample.BlazorWasm\\Sample.BlazorWasm.csproj",
         "projectName": "Sample.BlazorWasm",
-        "projectPath": "/home/motimat/source/projects/MotimatFrameWork/Sample.BlazorWasm/Sample.BlazorWasm.csproj",
-        "packagesPath": "/home/motimat/.nuget/packages/",
-        "outputPath": "/home/motimat/source/projects/MotimatFrameWork/Sample.BlazorWasm/obj/",
+        "projectPath": "C:\\Users\\Motimat\\source\\repos\\subasil\\Refrences\\motimatframework\\Sample.BlazorWasm\\Sample.BlazorWasm.csproj",
+        "packagesPath": "C:\\Users\\Motimat\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Motimat\\source\\repos\\subasil\\Refrences\\motimatframework\\Sample.BlazorWasm\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/home/motimat/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Motimat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
-          "/usr/lib/dotnet/library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "/home/motimat/source/projects/MotimatFrameWork/MotimatFrameWork.Razor/MotimatFrameWork.Razor.csproj": {
-                "projectPath": "/home/motimat/source/projects/MotimatFrameWork/MotimatFrameWork.Razor/MotimatFrameWork.Razor.csproj"
+              "C:\\Users\\Motimat\\source\\repos\\subasil\\Refrences\\motimatframework\\MotimatFrameWork.Razor\\MotimatFrameWork.Razor.csproj": {
+                "projectPath": "C:\\Users\\Motimat\\source\\repos\\subasil\\Refrences\\motimatframework\\MotimatFrameWork.Razor\\MotimatFrameWork.Razor.csproj"
               }
             }
           }
@@ -109,7 +191,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net9.0": {
@@ -133,7 +215,7 @@
             "Microsoft.NET.Sdk.WebAssembly.Pack": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[9.0.9, )",
+              "version": "[10.0.0, )",
               "autoReferenced": true
             }
           },
@@ -148,18 +230,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
-              "version": "[9.0.9, 9.0.9]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/9.0.112/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {
