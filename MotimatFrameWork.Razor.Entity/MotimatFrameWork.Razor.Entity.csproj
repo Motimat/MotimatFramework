@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\subasil\Refrences\motimatframework\MotimatFramework.Core\MotimatFramework.Core.csproj" />
+  </ItemGroup>
+
 </Project>
