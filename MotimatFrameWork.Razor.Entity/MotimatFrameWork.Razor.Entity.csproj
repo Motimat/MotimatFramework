@@ -1,11 +1,13 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>net9.0</TargetFramework>
+	  <TargetFramework>net9.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <PackageOutputPath>../nupkg</PackageOutputPath>
-    <Version>0.0.2</Version>
   </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\subasil\Refrences\motimatframework\MotimatFramework.Core\MotimatFramework.Core.csproj" />
+  </ItemGroup>
 
 </Project>

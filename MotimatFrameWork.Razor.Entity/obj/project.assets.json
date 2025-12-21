@@ -1,24 +1,43 @@
 {
   "version": 3,
   "targets": {
-    "net9.0": {}
+    "net9.0": {
+      "MotimatFramework.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/MotimatFramework.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MotimatFramework.Core.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "MotimatFramework.Core/1.0.0": {
+      "type": "project",
+      "path": "../../../../subasil/Refrences/motimatframework/MotimatFramework.Core/MotimatFramework.Core.csproj",
+      "msbuildProject": "../../../../subasil/Refrences/motimatframework/MotimatFramework.Core/MotimatFramework.Core.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net9.0": []
+    "net9.0": [
+      "MotimatFramework.Core >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Motimat\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
-    "version": "0.0.2",
+    "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Motimat\\source\\repos\\subasil\\Refrences\\motimatframework\\MotimatFrameWork.Razor.Entity\\MotimatFrameWork.Razor.Entity.csproj",
+      "projectUniqueName": "C:\\Users\\Motimat\\source\\repos\\Shop\\Refrences\\MotimatFramework\\MotimatFrameWork.Razor.Entity\\MotimatFrameWork.Razor.Entity.csproj",
       "projectName": "MotimatFrameWork.Razor.Entity",
-      "projectPath": "C:\\Users\\Motimat\\source\\repos\\subasil\\Refrences\\motimatframework\\MotimatFrameWork.Razor.Entity\\MotimatFrameWork.Razor.Entity.csproj",
+      "projectPath": "C:\\Users\\Motimat\\source\\repos\\Shop\\Refrences\\MotimatFramework\\MotimatFrameWork.Razor.Entity\\MotimatFrameWork.Razor.Entity.csproj",
       "packagesPath": "C:\\Users\\Motimat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Motimat\\source\\repos\\subasil\\Refrences\\motimatframework\\MotimatFrameWork.Razor.Entity\\obj\\",
+      "outputPath": "C:\\Users\\Motimat\\source\\repos\\Shop\\Refrences\\MotimatFramework\\MotimatFrameWork.Razor.Entity\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -39,7 +58,11 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Motimat\\source\\repos\\subasil\\Refrences\\motimatframework\\MotimatFramework.Core\\MotimatFramework.Core.csproj": {
+              "projectPath": "C:\\Users\\Motimat\\source\\repos\\subasil\\Refrences\\motimatframework\\MotimatFramework.Core\\MotimatFramework.Core.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
