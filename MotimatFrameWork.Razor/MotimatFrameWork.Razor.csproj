@@ -40,7 +40,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\..\..\Shop\Refrences\MotimatFramework\MotimatFrameWork.Razor.Entity\MotimatFrameWork.Razor.Entity.csproj" />
+    <ProjectReference Include="..\MotimatFrameWork.Razor.Entity\MotimatFrameWork.Razor.Entity.csproj" />
   </ItemGroup>
 
 </Project>

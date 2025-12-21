@@ -815,8 +815,8 @@
     },
     "MotimatFrameWork.Razor.Entity/1.0.0": {
       "type": "project",
-      "path": "../../../../Shop/Refrences/MotimatFramework/MotimatFrameWork.Razor.Entity/MotimatFrameWork.Razor.Entity.csproj",
-      "msbuildProject": "../../../../Shop/Refrences/MotimatFramework/MotimatFrameWork.Razor.Entity/MotimatFrameWork.Razor.Entity.csproj"
+      "path": "../MotimatFrameWork.Razor.Entity/MotimatFrameWork.Razor.Entity.csproj",
+      "msbuildProject": "../MotimatFrameWork.Razor.Entity/MotimatFrameWork.Razor.Entity.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -862,8 +862,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\Motimat\\source\\repos\\Shop\\Refrences\\MotimatFramework\\MotimatFrameWork.Razor.Entity\\MotimatFrameWork.Razor.Entity.csproj": {
-              "projectPath": "C:\\Users\\Motimat\\source\\repos\\Shop\\Refrences\\MotimatFramework\\MotimatFrameWork.Razor.Entity\\MotimatFrameWork.Razor.Entity.csproj"
+            "C:\\Users\\Motimat\\source\\repos\\subasil\\Refrences\\motimatframework\\MotimatFrameWork.Razor.Entity\\MotimatFrameWork.Razor.Entity.csproj": {
+              "projectPath": "C:\\Users\\Motimat\\source\\repos\\subasil\\Refrences\\motimatframework\\MotimatFrameWork.Razor.Entity\\MotimatFrameWork.Razor.Entity.csproj"
             }
           }
         }

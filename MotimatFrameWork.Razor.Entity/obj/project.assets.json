@@ -17,8 +17,8 @@
   "libraries": {
     "MotimatFramework.Core/1.0.0": {
       "type": "project",
-      "path": "../../../../subasil/Refrences/motimatframework/MotimatFramework.Core/MotimatFramework.Core.csproj",
-      "msbuildProject": "../../../../subasil/Refrences/motimatframework/MotimatFramework.Core/MotimatFramework.Core.csproj"
+      "path": "../MotimatFramework.Core/MotimatFramework.Core.csproj",
+      "msbuildProject": "../MotimatFramework.Core/MotimatFramework.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Motimat\\source\\repos\\Shop\\Refrences\\MotimatFramework\\MotimatFrameWork.Razor.Entity\\MotimatFrameWork.Razor.Entity.csproj",
+      "projectUniqueName": "C:\\Users\\Motimat\\source\\repos\\subasil\\Refrences\\motimatframework\\MotimatFrameWork.Razor.Entity\\MotimatFrameWork.Razor.Entity.csproj",
       "projectName": "MotimatFrameWork.Razor.Entity",
-      "projectPath": "C:\\Users\\Motimat\\source\\repos\\Shop\\Refrences\\MotimatFramework\\MotimatFrameWork.Razor.Entity\\MotimatFrameWork.Razor.Entity.csproj",
+      "projectPath": "C:\\Users\\Motimat\\source\\repos\\subasil\\Refrences\\motimatframework\\MotimatFrameWork.Razor.Entity\\MotimatFrameWork.Razor.Entity.csproj",
       "packagesPath": "C:\\Users\\Motimat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Motimat\\source\\repos\\Shop\\Refrences\\MotimatFramework\\MotimatFrameWork.Razor.Entity\\obj\\",
+      "outputPath": "C:\\Users\\Motimat\\source\\repos\\subasil\\Refrences\\motimatframework\\MotimatFrameWork.Razor.Entity\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
