@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MotimatFrameWork.Razor.Entity")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+29b0b35cc0fbe578cef6123e7ed1d23bd3b33713")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+730da8864ad580a7475ce24dcef9124a87614459")]
 [assembly: System.Reflection.AssemblyProductAttribute("MotimatFrameWork.Razor.Entity")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MotimatFrameWork.Razor.Entity")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
