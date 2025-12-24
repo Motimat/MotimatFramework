@@ -1,4 +1,4 @@
-﻿namespace MotimatFramework.Core.SubEntities.QueryModel
+﻿namespace MotimatFrameWork.Core.SubEntities.QueryModel
 {
     public class QueryRequest
     {

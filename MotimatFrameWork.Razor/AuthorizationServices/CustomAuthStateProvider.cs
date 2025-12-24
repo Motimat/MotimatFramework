@@ -14,26 +14,24 @@ namespace BlazorWasm
 {
     public class CustomAuthStateProvider : AuthenticationStateProvider
     {
-        private readonly ILocalStorageService _localStorage;
-        private readonly HttpClient _http;
+        
+        private readonly ITokenService _tokenService;
         private readonly LogService _logger;
-        private string _tokenKey;
-        public CustomAuthStateProvider(ILocalStorageService localStorage, HttpClient http,LogService logger)
+        public CustomAuthStateProvider(ITokenService tokenService,LogService logger)
         {
             _logger = logger;
-            _localStorage = localStorage;
-            _http = http;
+           _tokenService = tokenService;
         }
 
         public async Task SetToken(string tokenKey)
         {
-            _tokenKey = tokenKey;
+           await _tokenService.SetToken(tokenKey);
         }
         public async Task<bool> RemoveToke()
         {
             try
             {
-                await _localStorage.RemoveItemAsync("token");
+               await _tokenService.RemoveToke();
                 return true;
             }
             catch (Exception ex)
@@ -43,12 +41,18 @@ namespace BlazorWasm
         }
         public override async Task<AuthenticationState> GetAuthenticationStateAsync()
         {
-            string token = await _localStorage.GetItemAsStringAsync("token");
+            string token = await _tokenService.GetToken();
 
-
+            if (String.IsNullOrEmpty(token))
+            {
+                var state = new AuthenticationState(new ClaimsPrincipal());
+                NotifyAuthenticationStateChanged(Task.FromResult(state));
+                _logger.Log("Auth Is False");
+                return state;
+            }
 
             var tokenHandler = new JwtSecurityTokenHandler();
-            var key = Encoding.ASCII.GetBytes(_tokenKey);
+           
 
             try
             {
@@ -56,7 +60,6 @@ namespace BlazorWasm
                 tokenHandler.ValidateToken(token, new TokenValidationParameters
                 {
                     ValidateIssuerSigningKey = true,
-                    IssuerSigningKey = new SymmetricSecurityKey(key),
                     ValidateIssuer = false,
                     ValidateAudience = false,
                     RequireExpirationTime = true,
@@ -70,7 +73,7 @@ namespace BlazorWasm
                 // Create ClaimsPrincipal from the token's claims
                 var claimsIdentity = new ClaimsIdentity(jwtToken.Claims, "jwt");
                 var user = new ClaimsPrincipal(claimsIdentity);
-                    var state = new AuthenticationState(user);
+                var state = new AuthenticationState(user);
                 NotifyAuthenticationStateChanged(Task.FromResult(state));
                 _logger.Log("Auth is ON");
                 return state;

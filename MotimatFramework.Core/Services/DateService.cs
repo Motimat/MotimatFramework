@@ -5,10 +5,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MotimatFramework.Core.Services
+namespace MotimatFrameWork.Core.Services
 {
     public static class DateService
     {
+        public static DateTime GetStartOfWeek(this DateTime dt, DayOfWeek startOfWeek)
+        {
+            int diff = (7 + (dt.DayOfWeek - startOfWeek)) % 7;
+            return dt.AddDays(-1 * diff).Date;
+        }
         public static string ToShamsi(this DateTime DateTime1)
         {
             try
@@ -49,8 +54,6 @@ namespace MotimatFramework.Core.Services
 
         public static DateTime StringToDateTime(this string value)
         {
-
-
             string[] dateTmp = value.Split(' ');
             string[] date = dateTmp[0].Split('/');
             string[] time;
@@ -135,4 +138,14 @@ namespace MotimatFramework.Core.Services
             }
         }
     }
+
+
+    //public static class DateConvertor
+    //{
+    //    public static string ToShamsi(this DateTime date)
+    //    {
+    //        PersianCalendar persian = new PersianCalendar();
+    //        return persian.GetYear(date) + "/" + persian.GetMonth(date).ToString("00") + "/" + persian.GetDayOfMonth(date).ToString("00");
+    //    }
+    //}
 }

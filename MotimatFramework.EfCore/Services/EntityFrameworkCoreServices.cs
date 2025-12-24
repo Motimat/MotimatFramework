@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using MotimatFramework.Core.Interfaces;
-using MotimatFramework.Core.SubEntities;
-using MotimatFramework.Core.SubEntities.QueryModel;
+using MotimatFrameWork.Core.Interfaces;
+using MotimatFrameWork.Core.SubEntities;
+using MotimatFrameWork.Core.SubEntities.QueryModel;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,7 +10,7 @@ using System.Security.Principal;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MotimatFramework.EfCore.Services
+namespace MotimatFrameWork.EfCore.Services
 {
     public class EntityFrameworkCoreServices<TEntity> : IGenericService<TEntity>, IDisposable
         where TEntity : class, IEntity

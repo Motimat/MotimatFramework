@@ -1,11 +1,11 @@
-﻿using MotimatFramework.Core.SubEntities;
+﻿using MotimatFrameWork.Core.SubEntities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MotimatFramework.Core.Interfaces
+namespace MotimatFrameWork.Core.Interfaces
 {
     public interface IContextCore
     {
@@ -16,11 +16,5 @@ namespace MotimatFramework.Core.Interfaces
         public void Dispose();
 
         public void Migrate();
-
-
-
-
-
-
     }
 }

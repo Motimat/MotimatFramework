@@ -1,11 +1,11 @@
-﻿using MotimatFramework.Core.SubEntities.QueryModel;
+﻿using MotimatFrameWork.Core.SubEntities.QueryModel;
 using MotimatFrameWork.Razor.Entity.Interfaces;
 using MotimatFrameWork.Razor.Entity.Services;
 using System.Linq.Expressions;
 using System.Net.Http.Headers;
 using System.Net.Http.Json;
 
-namespace MotimatFramework.Razor.Entity.Services
+namespace MotimatFrameWork.Razor.Entity.Services
 {
     public class FluentQuery<T>
     {

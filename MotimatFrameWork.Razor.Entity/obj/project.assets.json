@@ -8,17 +8,17 @@
           "build/_._": {}
         }
       },
-      "MotimatFramework.Core/1.0.0": {
+      "MotimatFrameWork.Core/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v10.0",
         "dependencies": {
           "Microsoft.AspNetCore.Components.WebAssembly.DevServer": "10.0.1"
         },
         "compile": {
-          "bin/placeholder/MotimatFramework.Core.dll": {}
+          "bin/placeholder/MotimatFrameWork.Core.dll": {}
         },
         "runtime": {
-          "bin/placeholder/MotimatFramework.Core.dll": {}
+          "bin/placeholder/MotimatFrameWork.Core.dll": {}
         }
       }
     }
@@ -195,15 +195,15 @@
         "tools/x64/aspnetcorev2_inprocess.dll"
       ]
     },
-    "MotimatFramework.Core/1.0.0": {
+    "MotimatFrameWork.Core/1.0.0": {
       "type": "project",
-      "path": "../MotimatFramework.Core/MotimatFramework.Core.csproj",
-      "msbuildProject": "../MotimatFramework.Core/MotimatFramework.Core.csproj"
+      "path": "../MotimatFramework.Core/MotimatFrameWork.Core.csproj",
+      "msbuildProject": "../MotimatFramework.Core/MotimatFrameWork.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net10.0": [
-      "MotimatFramework.Core >= 1.0.0"
+      "MotimatFrameWork.Core >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -239,8 +239,8 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
-            "C:\\Users\\Motimat\\source\\repos\\subasil\\Refrences\\motimatframework\\MotimatFramework.Core\\MotimatFramework.Core.csproj": {
-              "projectPath": "C:\\Users\\Motimat\\source\\repos\\subasil\\Refrences\\motimatframework\\MotimatFramework.Core\\MotimatFramework.Core.csproj"
+            "C:\\Users\\Motimat\\source\\repos\\subasil\\Refrences\\motimatframework\\MotimatFrameWork.Core\\MotimatFrameWork.Core.csproj": {
+              "projectPath": "C:\\Users\\Motimat\\source\\repos\\subasil\\Refrences\\motimatframework\\MotimatFrameWork.Core\\MotimatFrameWork.Core.csproj"
             }
           }
         }

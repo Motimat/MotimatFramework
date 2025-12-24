@@ -451,24 +451,24 @@
           }
         }
       },
-      "MotimatFramework.Core/1.0.0": {
+      "MotimatFrameWork.Core/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v10.0",
         "dependencies": {
           "Microsoft.AspNetCore.Components.WebAssembly.DevServer": "10.0.1"
         },
         "compile": {
-          "bin/placeholder/MotimatFramework.Core.dll": {}
+          "bin/placeholder/MotimatFrameWork.Core.dll": {}
         },
         "runtime": {
-          "bin/placeholder/MotimatFramework.Core.dll": {}
+          "bin/placeholder/MotimatFrameWork.Core.dll": {}
         }
       },
       "MotimatFrameWork.Razor.Entity/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v10.0",
         "dependencies": {
-          "MotimatFramework.Core": "1.0.0"
+          "MotimatFrameWork.Core": "1.0.0"
         },
         "compile": {
           "bin/placeholder/MotimatFrameWork.Razor.Entity.dll": {}
@@ -1334,10 +1334,10 @@
         "system.identitymodel.tokens.jwt.nuspec"
       ]
     },
-    "MotimatFramework.Core/1.0.0": {
+    "MotimatFrameWork.Core/1.0.0": {
       "type": "project",
-      "path": "../MotimatFramework.Core/MotimatFramework.Core.csproj",
-      "msbuildProject": "../MotimatFramework.Core/MotimatFramework.Core.csproj"
+      "path": "../MotimatFramework.Core/MotimatFrameWork.Core.csproj",
+      "msbuildProject": "../MotimatFramework.Core/MotimatFrameWork.Core.csproj"
     },
     "MotimatFrameWork.Razor.Entity/1.0.0": {
       "type": "project",

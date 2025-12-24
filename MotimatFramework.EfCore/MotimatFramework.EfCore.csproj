@@ -13,7 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\MotimatFramework.Core\MotimatFramework.Core.csproj" />
+    <ProjectReference Include="..\MotimatFrameWork.Core\MotimatFrameWork.Core.csproj" />
   </ItemGroup>
 
 </Project>

@@ -1,14 +1,14 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using MotimatFramework.Core.Interfaces;
-using MotimatFramework.Core.SubEntities;
+using MotimatFrameWork.Core.Interfaces;
+using MotimatFrameWork.Core.SubEntities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MotimatFramework.EfCore.Services
+namespace MotimatFrameWork.EfCore.Services
 {
     public class SqlServerContextCore : DbContext, IContextCore
     {

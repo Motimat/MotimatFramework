@@ -1,12 +1,12 @@
-﻿using MotimatFramework.Core.SubEntities;
-using MotimatFramework.Core.SubEntities.QueryModel;
+﻿using MotimatFrameWork.Core.SubEntities;
+using MotimatFrameWork.Core.SubEntities.QueryModel;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MotimatFramework.Core.Interfaces
+namespace MotimatFrameWork.Core.Interfaces
 {
     public interface IGenericService<out TEntity> where TEntity : class, IEntity
     {

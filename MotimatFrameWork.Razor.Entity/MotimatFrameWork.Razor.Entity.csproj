@@ -7,7 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\..\..\subasil\Refrences\motimatframework\MotimatFramework.Core\MotimatFramework.Core.csproj" />
+    <ProjectReference Include="..\MotimatFrameWork.Core\MotimatFrameWork.Core.csproj" />
   </ItemGroup>
 
 </Project>

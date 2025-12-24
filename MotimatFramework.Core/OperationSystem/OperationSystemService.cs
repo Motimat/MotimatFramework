@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MotimatFramework.Core.OperationSystem
+namespace MotimatFrameWork.Core.OperationSystem
 {
     public static class OperationSystemService
     {

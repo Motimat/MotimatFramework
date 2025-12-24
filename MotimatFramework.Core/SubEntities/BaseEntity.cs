@@ -7,7 +7,7 @@ using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MotimatFramework.Core.SubEntities
+namespace MotimatFrameWork.Core.SubEntities
 {
     public abstract class BaseEntity<T> : IEntity
     {
