@@ -3,7 +3,7 @@ using MotimatFrameWork.Razor.Interfaces;
 
 namespace MotimatFrameWork.Razor.Services
 {
-    public abstract class ServiceLocator : IServiceLocator
+    internal abstract class ServiceLocator : IServiceLocator
     {
         internal IServiceProvider _serviceProvider;
         protected ServiceLocator(IServiceProvider serviceProvider)
