@@ -8,6 +8,5 @@ namespace Mf.Razor.Entity.Interfaces
 {
     public interface IServiceLocator
     {
-
     }
 }
