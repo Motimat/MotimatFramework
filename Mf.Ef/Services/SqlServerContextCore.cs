@@ -7,6 +7,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Mf.Core.SharedKernel;
 
 namespace Mf.EfCore.Services
 {
@@ -16,7 +17,7 @@ namespace Mf.EfCore.Services
 
         public List<Type>? Entities { get; set; }
 
-        public IGenericService<TypeModel> GetService<TypeModel>() where TypeModel : class, IEntity
+        public IGenericService<TypeModel> GetService<TypeModel>() where TypeModel : BaseEntity
         {
             var telBotServiceType = typeof(EntityFrameworkCoreServices<>).MakeGenericType(typeof(TypeModel));
             var constructor = telBotServiceType.GetConstructor(new[] { typeof(SqlServerContextCore) });

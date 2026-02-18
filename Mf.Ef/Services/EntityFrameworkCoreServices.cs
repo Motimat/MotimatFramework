@@ -9,11 +9,12 @@ using System.Linq.Expressions;
 using System.Security.Principal;
 using System.Text;
 using System.Threading.Tasks;
+using Mf.Core.SharedKernel;
 
 namespace Mf.EfCore.Services
 {
     public class EntityFrameworkCoreServices<TEntity> : IGenericService<TEntity>, IDisposable
-        where TEntity : class, IEntity
+        where TEntity : BaseEntity
     {
         protected readonly DbContext DbContext;
         public DbSet<TEntity> Entities { get; }

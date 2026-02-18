@@ -5,10 +5,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Mf.Core.SharedKernel;
 
 namespace Mf.Core.Interfaces
 {
-    public interface IGenericService<out TEntity> where TEntity : class, IEntity
+    public interface IGenericService<out TEntity> where TEntity : BaseEntity
     {
         public IEnumerable<TEntity> GetAll();
 
